@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: Cardiac Risk App
+authors:
+- name: Boston Children's Hospital
+- name: SMART on FHIR contributors
+repository-code: https://github.com/edithatogo/cardiac-risk-app
+url: https://github.com/edithatogo/cardiac-risk-app
+references:
+- type: software
+  title: Cardiac Risk App
+  authors:
+  - name: Boston Children's Hospital
+  - name: SMART on FHIR contributors
+  repository-code: https://github.com/smart-on-fhir/cardiac-risk-app
+  url: https://github.com/smart-on-fhir/cardiac-risk-app
